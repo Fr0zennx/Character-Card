@@ -1,4 +1,4 @@
-module 0x123::character_card {
+module project_1::character_card {
     /* CHAPTER 1: IMPORTS */
     // Goal: Import String, UID, TxContext, and Transfer modules
     use std::string::{String};

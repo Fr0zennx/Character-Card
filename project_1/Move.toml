@@ -3,8 +3,7 @@ name = "project_1"
 edition = "2024.beta"
 
 [dependencies]
-# Burayı boş bırakabilirsiniz veya sadece özel kütüphaneleri ekleyebilirsiniz.
-# Sui framework artık otomatik olarak dahil ediliyor.
+
 
 [addresses]
 project_1 = "0x0"
